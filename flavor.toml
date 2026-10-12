@@ -19,7 +19,7 @@ count_selected = { fg = "#98C379", bg = "#282C34" }  # Green on Darkened backgro
 
 # Border
 border_symbol = "│"
-border_style = { fg = "#282C34" }  # Darkened background
+border_style = { fg = "#4B5263" }  # Gutter gray
 
 # Highlighting
 syntect_theme = "tmtheme.xml"

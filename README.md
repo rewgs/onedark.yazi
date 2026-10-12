@@ -14,16 +14,15 @@
 
 ```bash
 # Linux/macOS
-git clone https://github.com/BennyOe/onedark.yazi.git ~/.config/yazi/flavors/onedark.yazi
+git clone https://github.com/rewgs/onedark.yazi.git ~/.config/yazi/flavors/onedark.yazi
 
 # Windows
-git clone https://github.com/BennyOe/onedark.yazi.git %AppData%\yazi\config\flavors\onedark.yazi
+git clone https://github.com/rewgs/onedark.yazi.git %AppData%\yazi\config\flavors\onedark.yazi
 ```
 
 ## ⚙️ Usage
 
 Add the these lines to your `theme.toml` configuration file to use it:
-
 
 ```toml
 [flavor]
